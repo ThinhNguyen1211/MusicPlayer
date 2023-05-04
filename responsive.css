@@ -70,18 +70,18 @@
     .credit {
         left: none;
         bottom: unset;
-        margin-top: 25px;
+        margin-top: 6.5%;
     }
     .credit-profile {
         font-size: 1rem;
     }
     .playlist {
-        max-height: 90%;
+        max-height: 85%;
     }
     .playlist-wrap {
-        background: url('https://thinhnguyen1211.github.io//MusicPlayer/Gif/1.5.gif');
+        background: url('https://thinhnguyen1211.github.io//MusicPlayer/Gif/1.7.gif');
     }
     .music-card__background {
-        background: url('https://thinhnguyen1211.github.io//MusicPlayer/Gif/1.5.gif');
+        background: url('https://thinhnguyen1211.github.io//MusicPlayer/Gif/1.7.gif');
     }
 }
