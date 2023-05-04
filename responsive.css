@@ -24,8 +24,8 @@
     }
     .cd {
         width: 250px;
-        margin-top: 7vh;
-        margin-bottom: 5vh
+        margin-top: 4vh;
+        margin-bottom: 2vh
     }
     .control .btn {
         font-size: 25px;
@@ -40,11 +40,14 @@
     .songs-name h4 {
         font-size: 2.7rem;
     }
+    .progress-wrap {
+        margin: 10px 10px 5px;
+    }
     .progress {
         height: 10px;
     }
     .progress-time {
-        margin: 0 10px 2vh;
+        margin: 0 10px 1vh;
     }
     .notes {
         font-size: 1.5rem;
@@ -57,7 +60,7 @@
         right: 53px;
     } 
     .notes-add-fav {
-        left: 304px;
+        left: 260px;
     }   
     .playlist-wrap {
         width: 100vw;
@@ -66,6 +69,8 @@
     }
     .credit {
         left: none;
+        bottom: unset;
+        margin-top: 25px;
     }
     .credit-profile {
         font-size: 1rem;
@@ -74,9 +79,16 @@
         max-height: 90%;
     }
     .playlist-wrap {
+<<<<<<< Updated upstream
         background: url('https://thinhnguyen1211.github.io//MusicPlayer/Gif/1.2.gif');
     }
     .music-card__background {
         background: url('https://thinhnguyen1211.github.io//MusicPlayer/Gif/1.2.gif');
+=======
+        background: url('/JS_Product/Music_Player/Gif/1.5.gif');
+    }
+    .music-card__background {
+        background: url('/JS_Product/Music_Player/Gif/1.5.gif');
+>>>>>>> Stashed changes
     }
 }
