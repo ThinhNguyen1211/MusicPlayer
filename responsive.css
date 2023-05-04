@@ -79,16 +79,9 @@
         max-height: 90%;
     }
     .playlist-wrap {
-<<<<<<< Updated upstream
-        background: url('https://thinhnguyen1211.github.io//MusicPlayer/Gif/1.2.gif');
+        background: url('https://thinhnguyen1211.github.io//MusicPlayer/Gif/1.5.gif');
     }
     .music-card__background {
-        background: url('https://thinhnguyen1211.github.io//MusicPlayer/Gif/1.2.gif');
-=======
-        background: url('/JS_Product/Music_Player/Gif/1.5.gif');
-    }
-    .music-card__background {
-        background: url('/JS_Product/Music_Player/Gif/1.5.gif');
->>>>>>> Stashed changes
+        background: url('https://thinhnguyen1211.github.io//MusicPlayer/Gif/1.5.gif');
     }
 }
