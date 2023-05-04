@@ -28,188 +28,188 @@ const app = {
         { 
             name: 'Dalatmango',
             singer: 'PC',
-            path: 'https://thinhnguyen1211.github.io/Music_Player/Music/dalatmango.mp3',
-            image: 'https://thinhnguyen1211.github.io/Music_Player/Pics/dalatmango.jpg'  
+            path: 'https://thinhnguyen1211.github.io/MusicPlayer/Music/dalatmango.mp3',
+            image: 'https://thinhnguyen1211.github.io/MusicPlayer/Pics/dalatmango.jpg'  
         },
         { 
             name: 'Mây Lang Thang',
             singer: 'Tùng TeA & PC',
-            path: 'https://thinhnguyen1211.github.io/Music_Player/Music/maylangthang.mp3',
-            image: 'https://thinhnguyen1211.github.io/Music_Player/Pics/maylangthang.jpg'  
+            path: 'https://thinhnguyen1211.github.io/MusicPlayer/Music/maylangthang.mp3',
+            image: 'https://thinhnguyen1211.github.io/MusicPlayer/Pics/maylangthang.jpg'  
         },
         { 
             name: 'Phiêu Bồng',
             singer: 'Tofu',
-            path: 'https://thinhnguyen1211.github.io/Music_Player/Music/phieubong.mp3',
-            image: 'https://thinhnguyen1211.github.io/Music_Player/Pics/phieubong.jpg'  
+            path: 'https://thinhnguyen1211.github.io/MusicPlayer/Music/phieubong.mp3',
+            image: 'https://thinhnguyen1211.github.io/MusicPlayer/Pics/phieubong.jpg'  
         },
         { 
             name: 'Ánh Chiều',
             singer: 'DICK ft XÁM',
-            path: 'https://thinhnguyen1211.github.io/Music_Player/Music/anhchieu.mp3',
-            image: 'https://thinhnguyen1211.github.io/Music_Player/Pics/anhchieu.jpg'  
+            path: 'https://thinhnguyen1211.github.io/MusicPlayer/Music/anhchieu.mp3',
+            image: 'https://thinhnguyen1211.github.io/MusicPlayer/Pics/anhchieu.jpg'  
         },
         { 
             name: 'Có Hạt Sương Trên Mắt Em',
             singer: 'NHA x DICK x XÁM',
-            path: 'https://thinhnguyen1211.github.io/Music_Player/Music/cohatsuongtrenmatem.mp3',
-            image: 'https://thinhnguyen1211.github.io/Music_Player/Pics/cohatsuongtrenmatem.jpg'  
+            path: 'https://thinhnguyen1211.github.io/MusicPlayer/Music/cohatsuongtrenmatem.mp3',
+            image: 'https://thinhnguyen1211.github.io/MusicPlayer/Pics/cohatsuongtrenmatem.jpg'  
         },
         { 
             name: 'Hometown',
             singer: 'Sol7 x LDleKING',
-            path: 'https://thinhnguyen1211.github.io/Music_Player/Music/hometown.mp3',
-            image: 'https://thinhnguyen1211.github.io/Music_Player/Pics/hometown.jpg'  
+            path: 'https://thinhnguyen1211.github.io/MusicPlayer/Music/hometown.mp3',
+            image: 'https://thinhnguyen1211.github.io/MusicPlayer/Pics/hometown.jpg'  
         },
         { 
             name: 'Side Effects',
             singer: 'Rhymastic & B-Wine',
-            path: 'https://thinhnguyen1211.github.io/Music_Player/Music/sideeffects.mp3',
-            image: 'https://thinhnguyen1211.github.io/Music_Player/Pics/sideeffects.jpg'  
+            path: 'https://thinhnguyen1211.github.io/MusicPlayer/Music/sideeffects.mp3',
+            image: 'https://thinhnguyen1211.github.io/MusicPlayer/Pics/sideeffects.jpg'  
         },
         { 
             name: 'Raindrop',
             singer: 'Sol7 x Pjnboys',
-            path: 'https://thinhnguyen1211.github.io/Music_Player/Music/raindrop.mp3',
-            image: 'https://thinhnguyen1211.github.io/Music_Player/Pics/raindrop.jpg'  
+            path: 'https://thinhnguyen1211.github.io/MusicPlayer/Music/raindrop.mp3',
+            image: 'https://thinhnguyen1211.github.io/MusicPlayer/Pics/raindrop.jpg'  
         },
         { 
             name: 'Slow Down',
             singer: 'Seachains ft Summer Vee',
-            path: 'https://thinhnguyen1211.github.io/Music_Player/Music/slowdown.mp3',
-            image: 'https://thinhnguyen1211.github.io/Music_Player/Pics/slowdown.jpg'  
+            path: 'https://thinhnguyen1211.github.io/MusicPlayer/Music/slowdown.mp3',
+            image: 'https://thinhnguyen1211.github.io/MusicPlayer/Pics/slowdown.jpg'  
         },
         { 
             name: 'An Thần',
             singer: 'Low G ft Thắng',
-            path: 'https://thinhnguyen1211.github.io/Music_Player/Music/anthan.mp3',
-            image: 'https://thinhnguyen1211.github.io/Music_Player/Pics/anthan.jpg'  
+            path: 'https://thinhnguyen1211.github.io/MusicPlayer/Music/anthan.mp3',
+            image: 'https://thinhnguyen1211.github.io/MusicPlayer/Pics/anthan.jpg'  
         },
         { 
             name: 'Đi Qua Mùa Hạ',
             singer: 'Thái Đinh',
-            path: 'https://thinhnguyen1211.github.io/Music_Player/Music/diquamuaha.mp3',
-            image: 'https://thinhnguyen1211.github.io/Music_Player/Pics/diquamuaha.jpg'  
+            path: 'https://thinhnguyen1211.github.io/MusicPlayer/Music/diquamuaha.mp3',
+            image: 'https://thinhnguyen1211.github.io/MusicPlayer/Pics/diquamuaha.jpg'  
         },
         { 
             name: 'MAI VỀ',
             singer: 'Dfoxie37 x Myhai',
-            path: 'https://thinhnguyen1211.github.io/Music_Player/Music/maive.mp3',
-            image: 'https://thinhnguyen1211.github.io/Music_Player/Pics/maive.jpg'  
+            path: 'https://thinhnguyen1211.github.io/MusicPlayer/Music/maive.mp3',
+            image: 'https://thinhnguyen1211.github.io/MusicPlayer/Pics/maive.jpg'  
         },
         { 
             name: '23:40',
             singer: 'Hào',
-            path: 'https://thinhnguyen1211.github.io/Music_Player/Music/2340.mp3',
-            image: 'https://thinhnguyen1211.github.io/Music_Player/Pics/2340.jpg'  
+            path: 'https://thinhnguyen1211.github.io/MusicPlayer/Music/2340.mp3',
+            image: 'https://thinhnguyen1211.github.io/MusicPlayer/Pics/2340.jpg'  
         },
         { 
             name: 'baby gudnite',
             singer: 'willistic',
-            path: 'https://thinhnguyen1211.github.io/Music_Player/Music/babygudnite.mp3',
-            image: 'https://thinhnguyen1211.github.io/Music_Player/Pics/babygudnite.jpg'  
+            path: 'https://thinhnguyen1211.github.io/MusicPlayer/Music/babygudnite.mp3',
+            image: 'https://thinhnguyen1211.github.io/MusicPlayer/Pics/babygudnite.jpg'  
         },
         { 
             name: 'Dự Báo Thời Tiết Hôm Nay Mưa',
             singer: 'GREY D',
-            path: 'https://thinhnguyen1211.github.io/Music_Player/Music/dubaothoitiethomnaymua.mp3',
-            image: 'https://thinhnguyen1211.github.io/Music_Player/Pics/dubaothoitiethomnaymua.jpg'  
+            path: 'https://thinhnguyen1211.github.io/MusicPlayer/Music/dubaothoitiethomnaymua.mp3',
+            image: 'https://thinhnguyen1211.github.io/MusicPlayer/Pics/dubaothoitiethomnaymua.jpg'  
         },
         { 
             name: 'Chết Trong Em',
             singer: 'Thịnh Suy',
-            path: 'https://thinhnguyen1211.github.io/Music_Player/Music/chettrongem.mp3',
-            image: 'https://thinhnguyen1211.github.io/Music_Player/Pics/chettrongem.jpg'  
+            path: 'https://thinhnguyen1211.github.io/MusicPlayer/Music/chettrongem.mp3',
+            image: 'https://thinhnguyen1211.github.io/MusicPlayer/Pics/chettrongem.jpg'  
         },
         { 
             name: 'Lộn Xộn ll',
             singer: 'Đen',
-            path: 'https://thinhnguyen1211.github.io/Music_Player/Music/lonxon2.mp3',
-            image: 'https://thinhnguyen1211.github.io/Music_Player/Pics/lonxon2.jpg'  
+            path: 'https://thinhnguyen1211.github.io/MusicPlayer/Music/lonxon2.mp3',
+            image: 'https://thinhnguyen1211.github.io/MusicPlayer/Pics/lonxon2.jpg'  
         },
         { 
             name: 'Mười Năm',
             singer: 'Đen ft Ngọc Linh',
-            path: 'https://thinhnguyen1211.github.io/Music_Player/Music/muoinam.mp3',
-            image: 'https://thinhnguyen1211.github.io/Music_Player/Pics/muoinam.jpg'  
+            path: 'https://thinhnguyen1211.github.io/MusicPlayer/Music/muoinam.mp3',
+            image: 'https://thinhnguyen1211.github.io/MusicPlayer/Pics/muoinam.jpg'  
         },
         { 
             name: 'Một Triệu Like',
             singer: 'Đen ft Thành Đồng',
-            path: 'https://thinhnguyen1211.github.io/Music_Player/Music/mottrieulike.mp3',
-            image: 'https://thinhnguyen1211.github.io/Music_Player/Pics/mottrieulike.jpg'  
+            path: 'https://thinhnguyen1211.github.io/MusicPlayer/Music/mottrieulike.mp3',
+            image: 'https://thinhnguyen1211.github.io/MusicPlayer/Pics/mottrieulike.jpg'  
         },
         { 
             name: 'Thanh Xuân',
             singer: 'Da LAB',
-            path: 'https://thinhnguyen1211.github.io/Music_Player/Music/thanhxuan.mp3',
-            image: 'https://thinhnguyen1211.github.io/Music_Player/Pics/thanhxuan.jpg'  
+            path: 'https://thinhnguyen1211.github.io/MusicPlayer/Music/thanhxuan.mp3',
+            image: 'https://thinhnguyen1211.github.io/MusicPlayer/Pics/thanhxuan.jpg'  
         },
         { 
             name: 'Cô Gái Bàn Bên',
             singer: 'Đen ft Lynk Lee',
-            path: 'https://thinhnguyen1211.github.io/Music_Player/Music/cogaibanben.mp3',
-            image: 'https://thinhnguyen1211.github.io/Music_Player/Pics/cogaibanben.jpg'  
+            path: 'https://thinhnguyen1211.github.io/MusicPlayer/Music/cogaibanben.mp3',
+            image: 'https://thinhnguyen1211.github.io/MusicPlayer/Pics/cogaibanben.jpg'  
         },
         { 
             name: 'Bài Này Chill Phết',
             singer: 'Đen ft. MIN',
-            path: 'https://thinhnguyen1211.github.io/Music_Player/Music/bainaychillphet.mp3',
-            image: 'https://thinhnguyen1211.github.io/Music_Player/Pics/bainaychillphet.jpg'  
+            path: 'https://thinhnguyen1211.github.io/MusicPlayer/Music/bainaychillphet.mp3',
+            image: 'https://thinhnguyen1211.github.io/MusicPlayer/Pics/bainaychillphet.jpg'  
         },
         { 
             name: 'TRƯỚC KHI TUỔI TRẺ NÀY ĐÓNG LỐI',
             singer: 'Ngắn x Xám x Dick',
-            path: 'https://thinhnguyen1211.github.io/Music_Player/Music/truockhituoitrenaydongloi.mp3',
-            image: 'https://thinhnguyen1211.github.io/Music_Player/Pics/truockhituoitrenaydongloi.jpg'  
+            path: 'https://thinhnguyen1211.github.io/MusicPlayer/Music/truockhituoitrenaydongloi.mp3',
+            image: 'https://thinhnguyen1211.github.io/MusicPlayer/Pics/truockhituoitrenaydongloi.jpg'  
         },
         { 
             name: 'Có Em',
             singer: 'Madihu ft Low G',
-            path: 'https://thinhnguyen1211.github.io/Music_Player/Music/coem.mp3',
-            image: 'https://thinhnguyen1211.github.io/Music_Player/Pics/coem.jpg'  
+            path: 'https://thinhnguyen1211.github.io/MusicPlayer/Music/coem.mp3',
+            image: 'https://thinhnguyen1211.github.io/MusicPlayer/Pics/coem.jpg'  
         },
         { 
             name: 'Cứ Chill Thôi',
             singer: 'Chillies',
-            path: 'https://thinhnguyen1211.github.io/Music_Player/Music/cuchillthoi.mp3',
-            image: 'https://thinhnguyen1211.github.io/Music_Player/Pics/cuchillthoi.jpg'  
+            path: 'https://thinhnguyen1211.github.io/MusicPlayer/Music/cuchillthoi.mp3',
+            image: 'https://thinhnguyen1211.github.io/MusicPlayer/Pics/cuchillthoi.jpg'  
         },
         { 
             name: 'Treasure',
             singer: 'Rhymastic',
-            path: 'https://thinhnguyen1211.github.io/Music_Player/Music/treasure.mp3',
-            image: 'https://thinhnguyen1211.github.io/Music_Player/Pics/treasure.jpg'  
+            path: 'https://thinhnguyen1211.github.io/MusicPlayer/Music/treasure.mp3',
+            image: 'https://thinhnguyen1211.github.io/MusicPlayer/Pics/treasure.jpg'  
         },
         { 
             name: 'Khi Màn Hình Tắt',
             singer: 'Rhymastic',
-            path: 'https://thinhnguyen1211.github.io/Music_Player/Music/khimanhinhtat.mp3',
-            image: 'https://thinhnguyen1211.github.io/Music_Player/Pics/khimanhinhtat.jpg'  
+            path: 'https://thinhnguyen1211.github.io/MusicPlayer/Music/khimanhinhtat.mp3',
+            image: 'https://thinhnguyen1211.github.io/MusicPlayer/Pics/khimanhinhtat.jpg'  
         },
         { 
             name: 'LẠC',
             singer: 'Rhymastic',
-            path: 'https://thinhnguyen1211.github.io/Music_Player/Music/lac.mp3',
-            image: 'https://thinhnguyen1211.github.io/Music_Player/Pics/lac.jpg'  
+            path: 'https://thinhnguyen1211.github.io/MusicPlayer/Music/lac.mp3',
+            image: 'https://thinhnguyen1211.github.io/MusicPlayer/Pics/lac.jpg'  
         },
         { 
             name: 'LUX',
             singer: 'KOO ft NGUYÊN',
-            path: 'https://thinhnguyen1211.github.io/Music_Player/Music/lux.mp3',
-            image: 'https://thinhnguyen1211.github.io/Music_Player/Pics/lux.jpg'  
+            path: 'https://thinhnguyen1211.github.io/MusicPlayer/Music/lux.mp3',
+            image: 'https://thinhnguyen1211.github.io/MusicPlayer/Pics/lux.jpg'  
         },
         { 
             name: 'AI BIET',
             singer: 'WEAN',
-            path: 'https://thinhnguyen1211.github.io/Music_Player/Music/aibiet.mp3',
-            image: 'https://thinhnguyen1211.github.io/Music_Player/Pics/aibiet.jpg'  
+            path: 'https://thinhnguyen1211.github.io/MusicPlayer/Music/aibiet.mp3',
+            image: 'https://thinhnguyen1211.github.io/MusicPlayer/Pics/aibiet.jpg'  
         },
         { 
             name: 'mot nguoi vi em (midnight)',
             singer: 'WEAN',
-            path: 'https://thinhnguyen1211.github.io/Music_Player/Music/motnguoiviem.mp3',
-            image: 'https://thinhnguyen1211.github.io/Music_Player/Pics/motnguoiviem.jpg'  
+            path: 'https://thinhnguyen1211.github.io/MusicPlayer/Music/motnguoiviem.mp3',
+            image: 'https://thinhnguyen1211.github.io/MusicPlayer/Pics/motnguoiviem.jpg'  
         },
     ],
 
