@@ -159,7 +159,7 @@ const app = {
         },
         { 
             name: 'TRƯỚC KHI TUỔI TRẺ NÀY ĐÓNG LỐI',
-            singer: 'Ngắn x Xám x Dick',
+            singer: 'Ngắn-Xám-Dick',
             path: 'https://thinhnguyen1211.github.io/MusicPlayer/Music/truockhituoitrenaydongloi.mp3',
             image: 'https://thinhnguyen1211.github.io/MusicPlayer/Pics/truockhituoitrenaydongloi.jpg'  
         },
