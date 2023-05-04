@@ -1,0 +1,82 @@
+/* Mobile & Tablet */
+@media only screen and (max-width: 63.9375em) {
+    
+    
+}
+
+/* Tablet */
+@media only screen and (min-width: 46.25em) and (max-width: 63.9375em) {
+
+}
+
+
+/* Mobile */
+@media only screen and (max-width: 46.1875em) {
+    .dashboard {
+        width: 100vw;
+        height: 100vh;
+    }
+    .text {
+        font-size: 3rem;
+    }
+    .add-favorite-icon {
+        font-size: 3rem;
+    }
+    .cd {
+        width: 250px;
+        margin-top: 7vh;
+        margin-bottom: 5vh
+    }
+    .control .btn {
+        font-size: 25px;
+    }
+    .control .btn-toggle-play {
+        font-size: 4rem;
+    }
+    .progress-time .progress-time__duration,
+    .progress-time .progress-time__current {
+        font-size: 2.2rem;
+    }
+    .songs-name h4 {
+        font-size: 2.7rem;
+    }
+    .progress {
+        height: 10px;
+    }
+    .progress-time {
+        margin: 0 10px 2vh;
+    }
+    .notes {
+        font-size: 1.5rem;
+        bottom: 87%;
+        left: -4px;
+    }
+    .notes::after {
+        border-color: transparent transparent #fff transparent;
+        bottom: 30px;
+        right: 53px;
+    } 
+    .notes-add-fav {
+        left: 304px;
+    }   
+    .playlist-wrap {
+        width: 100vw;
+        height: 100vh;
+        max-height: none;
+    }
+    .credit {
+        left: none;
+    }
+    .credit-profile {
+        font-size: 1rem;
+    }
+    .playlist {
+        max-height: 90%;
+    }
+    .playlist-wrap {
+        background: url('/JS_Product/Music_Player/Gif/1.2.gif');
+    }
+    .music-card__background {
+        background: url('/JS_Product/Music_Player/Gif/1.2.gif');
+    }
+}

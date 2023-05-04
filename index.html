@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Player</title>
+    <link rel="icon" type="image/x-icon" href="/JS_Product/Music_Player/Pics/music.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w==" crossorigin="anonymous" />
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="stylesheet" href="/JS_Product/Music_Player/fontawesome/css/all.css">
+    <link rel="stylesheet" href="/JS_Product/Music_Player/themify-icons/themify-icons.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/JS_Product/Music_Player/main.css">
+    <link rel="stylesheet" href="/JS_Product/Music_Player/responsive.css">
+    </head>
+<body>
+    <div class="player">
+        <!-- Dashboard -->
+        <div class="dashboard">
+          <video class="music-card__background" autoplay loop muted>
+            <source type="video/mp4" src="">
+          </video>
+          <!-- Header -->
+          <header class="header">
+            <div class="list-music-icon">
+                <i class="fa-solid fa-music music-icon text" onclick="showPlaylist()"></i>
+                <div class="notes notes-playlist">Show Playlist</div>
+            </div>
+            <div class="text">Now Playing:</div>
+            <div class="add-favorite-icon">
+                <i class="fa-regular fa-heart heart-icon" onclick="addFavorite()"></i>
+                <i class="fa-solid fa-heart heart-icon-red text" onclick="removeFavorite()"></i>
+                <div class="notes notes-add-fav">Add Favorite</div>
+            </div>
+          </header>
+      
+          <!-- CD -->
+          <div class="cd">
+            <div class="cd-thumb rotate" style="background-image: url('/JS_Product/Music_Player/Pics/dalatmango.jpg')">
+            </div>
+          </div>
+          <!-- Songs name -->
+          <header class="songs-name text">
+            <h3>PC</h3>
+            <h4>Dalatmango</h4>
+          </header>
+          <!-- Control -->
+          <div class="progress-wrap">
+            <div class="progress">
+              <div class="progress__value" style="width: 0%;"></div>
+            </div>
+          </div>
+
+          <audio id="audio" src=""></audio>
+
+          <div class="progress-time">
+            <div class="progress-time__current text">00:00</div>
+            <div class="progress-time__duration text">03:54</div>
+          </div>
+      
+          <div class="control">
+            <div class="btn btn-repeat text">
+              <i class="fas fa-redo"></i>
+            </div>
+            <div class="btn btn-prev text">
+              <i class="fas fa-step-backward"></i>
+            </div>
+            <div class="btn btn-toggle-play text" onclick="playAndStopBtn()">
+              <i class="fa-solid fa-circle-play icon-play"></i>
+              <i class="fa-solid fa-circle-pause icon-pause"></i>
+            </div>
+            <div class="btn btn-next text">
+              <i class="fas fa-step-forward"></i>
+            </div>
+            <div class="btn btn-random text">
+              <i class="fas fa-random"></i>
+            </div>
+          </div>
+            <div class="volume-change">
+                <div class="volume-change__icon ti-volume text" onclick="toggleMuted()">
+                </div>
+                <div class="volume-change-wrapper">
+                  <div class="volume-change__bar">
+                      <div class="volume-change__value" style="width: 100%;"></div>
+                  </div>
+              </div>
+            </div>
+            <div class="credit">Created by <a href="https://www.facebook.com/profile.php?id=100007758302640" class="credit-profile text">Thinhdeptraivodich</a></div>
+        </div>
+        <!-- Playlist -->
+        <div class="playlist-wrap">
+          <div class="playlist__header">
+            <div class="playlist__title text">My playlist</div>
+            <div class="playlist_close-icon">
+                <i class="fa-solid fa-xmark close-icon text" onclick="hidePlaylist()"></i>
+            </div>
+          </div>
+          <div class="playlist">
+                        
+          </div>
+        </div>
+    </div>
+      
+</body>
+    <script src="/JS_Product/Music_Player/main.js"></script>
+</html>
