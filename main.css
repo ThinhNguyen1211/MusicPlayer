@@ -87,7 +87,7 @@ html {
     border-radius: 10px;
     z-index: -2;
     background: white;
-    background: url('https://github.com/ThinhNguyen1211/MusicPlayer/Gif/1.gif');
+    background: url('https://thinhnguyen1211.github.io/MusicPlayer/Gif/1.gif');
 }
   
   /* HEADER */
@@ -382,7 +382,7 @@ html {
     overflow-y: auto;
     background-color: white;
     border-radius: 10px;
-    background: url('https://github.com/ThinhNguyen1211/MusicPlayer/Gif/1.gif');
+    background: url('https://thinhnguyen1211.github.io/MusicPlayer/Gif/1.gif');
     visibility: hidden;
     transition: all 0.5s;
     transform: translateY(40%);
